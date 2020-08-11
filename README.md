@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <a href=https://twitter.com/kdsmarty19> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/tenor%20(1).gif" width="70" height="50"></img></a>
 
-<!--<br><br>-->
+<br><br>
 
 <!-- <a href=https://thesmartyking.github.io> <img align="left" src="https://cdn.onlinewebfonts.com/svg/img_529063.png" width="40" height="40"></img></a>  <br><br>-->
 
