@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 
 # Let's Get Connected !!!
 
-<a href=https://www.facebook.com/kenildoshi19> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
+<a href=https://www.facebook.com/kenildoshi19> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png" "Facebook"></img></a>
 
 <!--<a href=https://www.facebook.com/kenildoshi19> <img align="left" src="https://tenor.com/view/facebook-gif-9067242"></img></a> -->
 
-<a href=https://www.instagram.com/the_smarty_king> <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
+<a href=https://www.instagram.com/the_smarty_king> <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png" "Instagram"></img></a>
 
 <!--<a href=https://www.instagram.com/the_smarty_king > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>-->
 
-<a href=https://www.linkedin.com/in/kenil-doshi-98224617b> <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+<a href=https://www.linkedin.com/in/kenil-doshi-98224617b> <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" "Linked-In"></img></a>
 
-<a href=https://twitter.com/kdsmarty19> <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
+<a href=https://twitter.com/kdsmarty19> <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png" "Twitter"></img></a>
 
-<a href=https://thesmartyking.github.io> <img align="left" src="https://cdn.onlinewebfonts.com/svg/img_529063.png" width="40" height="40"></img></a><br><br>
+<a href=https://thesmartyking.github.io> <img align="left" src="https://cdn.onlinewebfonts.com/svg/img_529063.png" width="40" height="40" "My Website"></img></a><br><br>
 
 #### Name:- Kenil Doshi
 
