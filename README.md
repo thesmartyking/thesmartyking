@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!-- <a href=https://thesmartyking.github.io> <img align="left" src="https://cdn.onlinewebfonts.com/svg/img_529063.png" width="40" height="40"></img></a> --> <br><br>
 
-#### <h3>About Me:- I am a Graduate student holding a Bachelor's degree in the field of Electronics and Communication Engineering and seeking for varieties of Opportunities in the vast ocean of Technology. I am well Experienced Android Developer with in depth Skilled in Java, SQLite Database, Kotlin, UI Designer, Application Development, and Android Studio. </h3> 
+#### <h3>About Me:- I am a Graduate student holding a Bachelor's degree in the field of Electronics and Communication Engineering and seeking for varieties of Opportunities in the vast ocean of Technology. <br>I am well Experienced Android Developer with in depth Skilled in Java, SQLite Database, Kotlin, UI Designer, Application Development, and Android Studio. </h3> 
 
 #### <h3>For More Details Check My Portfolio Website:- [**KENIL DOSHI**](https://thesmartyking.github.io) </h3>
 
