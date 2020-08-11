@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 
 <a href=https://twitter.com/kdsmarty19> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/tenor%20(1).gif" width="140" height="100"></img></a>
 
-<!-- <a href=https://thesmartyking.github.io> <img align="left" src="https://cdn.onlinewebfonts.com/svg/img_529063.png" width="40" height="40"></img></a> --> <br><br>
+<br><br>
+
+<!-- <a href=https://thesmartyking.github.io> <img align="left" src="https://cdn.onlinewebfonts.com/svg/img_529063.png" width="40" height="40"></img></a> --> 
 
 #### <h3>About Me:- I am a Graduate student holding a Bachelor's degree in the field of Electronics and Communication Engineering and seeking for varieties of Opportunities in the vast ocean of Technology. I am well Experienced Android Developer with in depth Skilled in Java, SQLite Database, Kotlin, UI Designer, Application Development, and Android Studio. </h3>
 
