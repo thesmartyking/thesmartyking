@@ -49,18 +49,7 @@ Here are some ideas to get you started:
   <h4> From:- 2020-01 to Present</h4> 
 </li></ul>
 -->
-<!--
-# Projects
 
-<ul>
-<li> <h4>Project Name : Buildportfolio</h4> 
-<h4> Project Description : With BuildPorfolio there is no further need for any customization to be made by the user. Other website's alteration of the HTML & CSS is to be done by the user while with BuildPortfolio.</h4> 
-<h4>  From : 2020-05</h4> 
- <h4>  to :2020-06</h4> 
-<h4>  Github Link :https://github.com/DevanshuBrahmbhatt/Build_portfolio</h4> 
-<h4>  Website Link :https://www.buildportfolio.in/#/</h4> 
- </li></ul>
- -->
 <!--
 # Technical Skills
  
