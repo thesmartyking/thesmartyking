@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <a href=https://twitter.com/kdsmarty19> <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
 
-<a href=https://thesmartyking.github.io> <img align="left" src="https://cdn.onlinewebfonts.com/svg/img_529063.png" width="40" height="40"></img></a><br><br>
+<!-- <a href=https://thesmartyking.github.io> <img align="left" src="https://cdn.onlinewebfonts.com/svg/img_529063.png" width="40" height="40"></img></a> --><br><br>
 
 #### Name:- Kenil Doshi
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 #### <h3>About Me:- I am a Graduate student holding a Bachelor's degree in the field of Electronics and Communication Engineering and seeking for varieties of Opportunities in the vast ocean of Technology. I am well Experienced Android Developer with in depth Skilled in Java, SQLite Database, Kotlin, UI Designer, Application Development, and Android Studio. </h3>
 
-# For More Details Check My Portfolio Website:- [**KENIL DOSHI**](https://thesmartyking.github.io) 
+#### For More Details Check My Portfolio Website:- [**KENIL DOSHI**](https://thesmartyking.github.io) 
 
 <!--# Work Experience
 
