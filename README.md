@@ -67,4 +67,6 @@ Here are some ideas to get you started:
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thesmartyking)
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=thesmartyking alt=thesmartyking/> </p>
+
 [From Kenil Doshi Developed with ❤ ©️thesmartyking😎](https://github.com/thesmartyking)
