@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 
 <a href=mailto:doshikenil623@gmail.com> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/gmail.gif" width="75" height="75"></img></a>
 
-<br><br />
 
 <!-- <a href=https://thesmartyking.github.io> <img align="left" src="https://cdn.onlinewebfonts.com/svg/img_529063.png" width="40" height="40"></img></a> --> <br> <br />
 
