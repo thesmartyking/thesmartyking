@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 <a href=https://twitter.com/kdsmarty19> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/tenor%20(1).gif" width="140" height="100"></img></a>
 
+<a href=mailto:doshikenil623@gmail.com> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/gmail.gif" width="100" height="100"></img></a>
+
 <br><br>
 
 <!-- <a href=https://thesmartyking.github.io> <img align="left" src="https://cdn.onlinewebfonts.com/svg/img_529063.png" width="40" height="40"></img></a> --> <br> <br />
@@ -42,6 +44,8 @@ Here are some ideas to get you started:
 #### <h3>About Me:- I am a Graduate student holding a Bachelor's degree in the field of Electronics and Communication Engineering and seeking for varieties of Opportunities in the vast ocean of Technology. <br>I am well Experienced Android Developer with in depth Skilled in Java, SQLite Database, Kotlin, UI Designer, Application Development, and Android Studio. </h3> 
 
 #### <h3>For More Details Check My Portfolio Website:- [**KENIL DOSHI**](https://thesmartyking.github.io) </h3>
+
+<!--**Mail Me:- doshikenil623@gmail.com**-->
 
 <!--# Work Experience
 
@@ -60,12 +64,13 @@ Here are some ideas to get you started:
 - Assembly Language of 8051 Microcontroller.<br>
 - **Tools**:- Multisim, Proteus, Quartus II, LT Spice XVII, SCILAB, Keil uVision, S51 Simulator, Microwind, MATLAB, DOSBox, CodeBlocks, Arduino, Android Studio.<br>
 - **Programming Language**:- C, C++, Java (Basic), Kotlin (Basic), Python (Basic).
-
+- **External Tools(Web)**:- Git, Github Management, HTML, CSS, Node JS, MongoDB, PHP, MySql. 
+- **External Tools(Mobile)**:- Android Studio, Front-end (Designing):- XML, Material UI, Back-end:- Java, Kotlin, Android Jetpack Concepts.
 -->
-
 ---
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thesmartyking)
+<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thesmartyking)-->
+![YOUR github stats](https://github-readme-stats.vercel.app/api/?username=thesmartyking&show_icons=true&title_color=0043ff&icon_color=49ff00&text_color=ff8100&bg_color=151515)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=thesmartyking alt=thesmartyking/> </p>
 
