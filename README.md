@@ -13,6 +13,8 @@
 </li></ul>
 -->
 
+---
+
 # Technical Skills
  
 - **Basic Skills**:- HTML, MS-OFFICE, Basic Website Designing.<br>
