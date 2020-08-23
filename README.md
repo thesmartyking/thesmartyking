@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <a href=https://github.com/thesmartyking> <img align="center" src="https://github.com/thesmartyking/thesmartyking/blob/master/webscreenbio.gif"></img></a> 
 <br><br>
+
 ---
 
 # Let's Get Connected !!!
