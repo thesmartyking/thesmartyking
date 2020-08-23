@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <a href=https://twitter.com/kdsmarty19> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/tenor%20(1).gif" width="140" height="100"></img></a>
 
-<a href=mailto:doshikenil623@gmail.com> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/gmail.gif" width="100" height="100"></img></a>
+<!--<a href=mailto:doshikenil623@gmail.com> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/gmail.gif" width="100" height="100"></img></a>-->
 
 <br><br />
 
