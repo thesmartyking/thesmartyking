@@ -78,10 +78,12 @@ Here are some ideas to get you started:
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/?username=thesmartyking&show_icons=true&title_color=0043ff&icon_color=49ff00&text_color=ff8100&bg_color=151515)
 
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=thesmartyking alt=thesmartyking/> 
-![GitHub followers](https://img.shields.io/github/followers/thesmartyking?logo=GitHub&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/kdsmarty19?label=KENIL DOSHI&logo=twitter&style=for-the-badge)
-<!--![Instagram Follow](https://img.shields.io/instagram/followers/the_smarty_king?label=KENIL DOSHI&logo=instagram&style=for-the-badge)-->
-</p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=thesmartyking alt=thesmartyking/> </p>
+
+<!--![GitHub followers](https://img.shields.io/github/followers/thesmartyking?logo=GitHub&style=for-the-badge)-->
+![Twitter Follow](https://img.shields.io/twitter/follow/kdsmarty19?label=kdsmarty19&logo=twitter&style=for-the-badge)
+
+<!-- ![Instagram Follow](https://img.shields.io/instagram/followers/the_smarty_king?label=KENIL DOSHI&logo=instagram&style=for-the-badge)-->
+
 
 [From Kenil Doshi Developed with ❤ ©️thesmartyking😎](https://github.com/thesmartyking)
