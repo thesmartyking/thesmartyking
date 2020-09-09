@@ -81,8 +81,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=thesmartyking&style=flat-square alt=thesmartyking/> </p>
 <!--![](https://komarev.com/ghpvc/?username=thesmartyking&style=flat-square&color=red)-->
 
-<!--![GitHub followers](https://img.shields.io/github/followers/thesmartyking?logo=GitHub&style=for-the-badge)-->
-![Twitter Follow](https://img.shields.io/twitter/follow/kdsmarty19?label=kdsmarty19&logo=twitter&style=for-the-badge)
+<!--![GitHub followers](https://img.shields.io/github/followers/thesmartyking?logo=GitHub&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/kdsmarty19?label=kdsmarty19&logo=twitter&style=for-the-badge)-->
 
 <!-- ![Instagram Follow](https://img.shields.io/instagram/followers/the_smarty_king?label=KENIL DOSHI&logo=instagram&style=for-the-badge)-->
 
