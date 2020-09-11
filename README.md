@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--<a href=https://github.com/thesmartyking> <img align="center" src="https://github.com/thesmartyking/thesmartyking/blob/master/webscreenbio.gif"></img></a> -->
-<a href=https://github.com/thesmartyking> <img align="center" src="https://github.com/thesmartyking/thesmartyking/blob/master/webscreenbio-fast.gif"></img></a> 
+<a href=https://github.com/thesmartyking> <img align="center" src="https://github.com/thesmartyking/thesmartyking/blob/master/webscreen-fast.gif"></img></a> 
 <br />
 
 ---
