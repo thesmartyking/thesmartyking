@@ -93,6 +93,7 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/-kdsmarty19-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kdsmarty19)
 [![Github](https://img.shields.io/badge/-thesmartyking-black?style=flat-square&logo=github&logoColor=white)](https://github.com/thesmartyking)
 [![Mail](https://img.shields.io/badge/-Kenil%20Doshi-black?style=flat-square&logo=gmail&logoColor=red)](mailto:doshikenil623@gmail.com)
+[![Blogger](https://img.shields.io/badge/-Being%20Indian-black?style=flat-square&logo=blogger&logoColor=orange)](https://beingindianlatestnews.blogspot.com/)
 
 
 [From Kenil Doshi Developed with ❤ ©️thesmartyking😎](https://github.com/thesmartyking)
