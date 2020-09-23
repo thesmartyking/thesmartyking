@@ -94,9 +94,11 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/badge/-thesmartyking-black?style=flat-square&logo=github&logoColor=white)](https://github.com/thesmartyking)
 [![Mail](https://img.shields.io/badge/-Kenil%20Doshi-black?style=flat-square&logo=gmail&logoColor=red)](mailto:doshikenil623@gmail.com)
 [![Blogger](https://img.shields.io/badge/-Being%20Indian-orange?style=flat-square&logo=blogger&logoColor=white)](https://beingindianlatestnews.blogspot.com)
-<!--<br />
+<!-- 
+<br />
 [![Blogger](https://img.shields.io/badge/-Being%20Indian-orange?style=flat-square&logo=blogger&logoColor=white)](https://beingindianlatestnews.blogspot.com)
-[![Blogger](https://img.shields.io/badge/-Job%20Circle%20India-orange?style=flat-square&logo=blogger&logoColor=white)](https://jobcircleindia.blogspot.com/)-->
+[![Blogger](https://img.shields.io/badge/-Job%20Circle%20India-orange?style=flat-square&logo=blogger&logoColor=white)](https://jobcircleindia.blogspot.com/)
+-->
 
 
 [From Kenil Doshi Developed with ❤ ©️thesmartyking😎](https://github.com/thesmartyking)
