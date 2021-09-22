@@ -79,7 +79,33 @@ Here are some ideas to get you started:
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/?username=thesmartyking&show_icons=true&title_color=0043ff&icon_color=49ff00&text_color=ff8100&bg_color=151515)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesmartyking&layout=compact&hide=html" alt="thesmartyking" /></p>
 
+---
+
+### Languages and Tools
+
+<code><img height="30" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+
+---
+
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=thesmartyking&style=flat-square alt=thesmartyking/> </p>
+  
+[![Github](https://img.shields.io/github/followers/thesmartyking?label=Follow&style=social)](https://github.com/thesmartyking)
+
 <!--![](https://komarev.com/ghpvc/?username=thesmartyking&style=flat-square&color=red)-->
 
 <!--![GitHub followers](https://img.shields.io/github/followers/thesmartyking?logo=GitHub&style=for-the-badge)
